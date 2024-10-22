@@ -1,6 +1,6 @@
 pandas
 numpy
-xgboost
+XGBoost
 scikit-learn
 streamlit
 openpyxl
